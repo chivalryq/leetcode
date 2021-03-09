@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/21-03/alibaba/alibaba.iml" filepath="$PROJECT_DIR$/21-03/alibaba/alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-03/heap/heap.iml" filepath="$PROJECT_DIR$/21-03/heap/heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-03/newCoder/newCoder.iml" filepath="$PROJECT_DIR$/21-03/newCoder/newCoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-03/palindrome/palindrome.iml" filepath="$PROJECT_DIR$/21-03/palindrome/palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-03/prefixSum/prefixSum.iml" filepath="$PROJECT_DIR$/21-03/prefixSum/prefixSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-03/queue/queue.iml" filepath="$PROJECT_DIR$/21-03/queue/queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-03/stack/stack.iml" filepath="$PROJECT_DIR$/21-03/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-03/sundry/string/string.iml" filepath="$PROJECT_DIR$/21-03/sundry/string/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-03/sundry/sundry.iml" filepath="$PROJECT_DIR$/21-03/sundry/sundry.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-03/treemap/treemap.iml" filepath="$PROJECT_DIR$/21-03/treemap/treemap.iml" />
     </modules>
   </component>
