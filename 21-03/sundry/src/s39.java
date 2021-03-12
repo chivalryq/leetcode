@@ -4,7 +4,7 @@ import java.util.List;
 public class s39 {
 }
 
-class Solution {
+class Solution39 {
     List<List<Integer>> ans=new LinkedList<>();
     int[] can;
     void dfs(List<Integer> com,int target,int index){
