@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int[] aba = new int[10010];
-        int[] abc = new int[10010];
+        long[] aba = new long[10010];
+        long[] abc = new long[10010];
         aba[1] = 6;
         abc[1] = 6;
         for (int i = 2; i < 10010; i++) {
